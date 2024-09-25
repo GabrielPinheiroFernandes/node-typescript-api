@@ -8,4 +8,4 @@ mkdir nome-arquivo
 
 
 //primeira branch antes do yarnbiuld , modelo de criação
-yarn build
+yarn build 
