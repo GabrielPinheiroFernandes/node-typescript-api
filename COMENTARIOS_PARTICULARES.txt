@@ -1,0 +1,11 @@
+//criação de arquivo pelo terminal 
+type nul > type nul > nome-arquivo.json
+
+//criação de pastas pelo terminal
+mkdir nome-arquivo
+
+
+
+
+//primeira branch antes do yarnbiuld , modelo de criação
+yarn build
